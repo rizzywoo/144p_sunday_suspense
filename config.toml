@@ -1,0 +1,18 @@
+
+baseURL = "https://144p-sunday-suspense.netlify.app/"
+languageCode = "en-us"
+title = "144p Sunday Suspense"
+theme = "PaperMod"
+paginate = 5
+
+[params]
+  author = "Sayan Bhattacharya"
+  description = "Lo-fi chills, every Sunday"
+  defaultTheme = "dark"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
